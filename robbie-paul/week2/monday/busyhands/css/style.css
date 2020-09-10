@@ -1,0 +1,79 @@
+
+
+#wrapper {
+
+}
+
+body {
+     font-family: Arial, Helvetica, sans-serif;
+     background: url(../images/bg_body.jpg) repeat-x;
+     margin: 0 auto;
+     min-width: 600px;
+}
+
+#container  {
+
+}
+
+nav {
+     margin: 0;
+     background: black;
+     padding: 10px;
+}
+
+nav li {
+     display: inline;
+     color: white;
+     padding:10px;
+}
+
+nav li:hover {
+     border-top: 3px solid lightblue;
+}
+
+header {
+     display: flex;
+     align-content: center;
+}
+header .logo {
+
+}
+
+#main-content {
+
+}
+#social-media  {
+     float: right;
+}
+
+.photobanner {
+
+}
+.imageshadow {
+
+}
+
+#blurb {
+     border-top: 2px solid grey;
+     border-right: 1px solid white;
+     border-bottom: 1px solid white;
+     border-left: 2px solid grey;
+}
+
+#home-boxes {
+     display: flex;
+     justify-content: center;
+}
+    .home-box {
+         flex-direction: column;
+         min-width: 0;
+         font-size: 0.75em;
+         }
+	
+    .box-footer 
+         .blogroll
+    .box-footer 
+         .textwidget 
+
+#copyright 
+#companybottom 
